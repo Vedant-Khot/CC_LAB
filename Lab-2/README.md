@@ -1,4 +1,4 @@
-Lab 2: Performance Analysis Using Type-2 Hypervisor – VMware Workstation
+Lab 2: Performance Analysis Using Type- 2 Hypervisor – VMware Workstation
 
 Overview:
 VMware Workstation is a Type-2 hypervisor that runs on top of a host operating system. In this experiment, a virtual machine is created using VMware Workstation with the same configuration used for the Proxmox VE virtual machine. The performance of the virtual machine is then analyzed using Sysbench.
