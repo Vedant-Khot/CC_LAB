@@ -1,4 +1,4 @@
-Performance Analysis of Virtualization: Type-1 (Proxmox VE) vs Type-2 (VMware Workstation) Hypervisors
+Performance Analysis of Virtualization: Type -1 (Proxmox VE) vs Type-2 (VMware Workstation) Hypervisors
 
 Overview:
 This laboratory experiment evaluates and compares the performance characteristics of Type-1 (bare-metal) and Type-2 (hosted) hypervisors. Proxmox VE is deployed as the Type-1 hypervisor running directly on physical hardware, while VMware Workstation serves as the Type-2 hypervisor running on top of a host operating system. Virtual machines running Ubuntu are configured on both platforms with identical CPU allocations, and their processing performance is benchmarked using Sysbench.
